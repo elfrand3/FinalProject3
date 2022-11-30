@@ -1,0 +1,139 @@
+.nav-item:hover{
+    background: linear-gradient(270deg, #8C32F0 0%, #E73587 100%);
+    font-style: normal;
+    color: black;
+}
+.icon{
+    position: absolute;
+    width: 80px;
+    height: 100px;
+    top: 0;
+    background: #020E35;    
+}
+.icon svg{
+    margin-left: 20px;
+    margin-top: 15px;  
+}
+.card-title1{
+    position: absolute;
+    width: 531px;
+    height: 366px;
+    left: 100px;
+    top: 252px;
+    
+    font-family: 'Basic';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 97px;
+    line-height: 122px;
+    color: #020E35;       
+}
+.btn{
+    position: absolute;
+    width: 140px;
+    height: 40px;
+    left: 100px;
+    top: 591px;
+    background: linear-gradient(270deg, #8C32F0 0%, #E73587 100%);
+}
+.btn:hover{
+    background: #E73587;
+}
+.imb{
+    position: absolute;
+    width: 740px;
+    height: 566px;
+    left: 600px;
+    top: 118px;    
+}
+.ab{
+    position: absolute;
+    width: 155px;
+    height: 50px;
+    left: 644px;
+    top: 785px;
+    
+    font-family: 'Basic';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 40px;
+    line-height: 50px;
+    text-align: center;
+    
+    color: #020E35;    
+}
+.oval{
+    position: absolute;
+    width: 276px;
+    height: 276px;
+    left: -141px;
+    top: 722px;
+    
+    background: #F0F3FA;    
+}
+.ta{
+    position: absolute;
+    width: 823px;
+    height: 75px;
+    left: 308px;
+    top: 860px;
+    
+    font-family: 'Basic';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 25px;
+    text-align: center;
+    
+    color: #2B2B2B;
+    
+}
+.ac{
+    position: absolute;
+    height: 276px;
+    margin-top: 50%;
+     
+}
+.ot{
+    position: absolute;
+    width: 365px;
+    height: 50px;
+    left: 538px;
+    top: 1057px;
+    
+    font-family: 'Basic';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 40px;
+    line-height: 50px;
+    text-align: center;
+    
+    color: #020E35;    
+}
+.ot1{
+    position: absolute;
+    width: 377px;
+    height: 583px;
+    left: 135px;
+    top: 1157px;
+    
+    background: #FDF8E3;    
+}
+.ot2{
+    position: absolute;
+    width: 377px;
+    height: 583px;
+    left: 532px;
+    top: 1157px;
+    
+    background: #F0F3FA;    
+}
+.ot3{
+    position: absolute;
+    width: 377px;
+    height: 583px;
+    left: 929px;
+    top: 1157px;
+    
+    background: #FEEFF0;
+}
