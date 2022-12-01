@@ -137,3 +137,139 @@
     
     background: #FEEFF0;
 }
+
+.badan{
+    position: absolute;
+    text-align: center;
+    width: 1440px;
+    height: 2392px;
+    left: 0px;
+    top: 1803px;
+    background: #020E35;
+  }
+  
+  
+  .title_middle {
+    position: absolute;
+    width: 161px;
+    height: 50px;
+    left: 641px;
+    top: 0px;
+    color: beige;
+    font-family: Arial, Helvetica, sans-serif;
+  }
+  
+  .card1 {
+    position: absolute;
+    display: flex;
+    width: 1000px;
+    height: 390px;
+    left: 135px;
+    top: 100px;
+  }
+  
+  .backgroud_c1 {
+    position: relative;
+    width: 2210px;
+    height: 390px;
+    left: 0px;
+    top: 0px;
+  
+    background: #f09532;
+  }
+  
+  .gambarc1 {
+    position: relative;
+    width: 433px;
+    height: 390px;
+    left: 0px;
+    top: 0px;
+  }
+  
+  .textc1 {
+    position: relative;
+    left: 20px;
+    top: 0px;
+    color: azure;
+    font-family: Arial, Helvetica, sans-serif;
+  }
+  
+  .card2 {
+    position: absolute;
+    display: flex;
+    width: 1000px;
+    height: 390px;
+    left: 135px;
+    top: 535px;
+    
+  }
+  
+  .textc2 {
+    position: relative;
+    left: 150px;
+    top: 0px;
+    color: azure;
+    font-family: Arial, Helvetica, sans-serif;
+  }
+  
+  .backgroud_c2 {
+    position: relative;
+    width: 2210px;
+    height: 390px;
+    left: 170px;
+    top: 0px;
+    background: #8c32f0;
+  }
+  
+  .gambarc2 {
+    position: relative;
+    width: 403px;
+    height: 392px;
+    left: 0px;
+    top: 0px;
+  }
+  
+  .card3{
+    position: absolute;
+    display: flex;
+    width: 1000px;
+    height: 390px;
+    left: 135px;
+    top: 975px;
+    
+  }
+  
+  .backgroud_c3 {
+    position: relative;
+    width: 2210px;
+    height: 390px;
+    left: 0px;
+    top: 0px;
+  
+    background: #e73587;
+  }
+  
+  .gambarc3 {
+    position: absolute;
+    width: 587px;
+    height: 324.6px;
+    left: 0px;
+    top: 71px;
+  }
+  
+  .textc3{
+    position: relative;
+    left: 20px;
+    top: 0px;
+    color: azure;
+    font-family: Arial, Helvetica, sans-serif;
+  }
+
+  .badan2{
+    position: absolute;
+    width: 1440px;
+    height: 2392px;
+    left: 0px;
+    top: 1443px;
+    background: #020E35;
+  }
